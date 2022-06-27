@@ -1,4 +1,4 @@
-package implement
+package lab2
 
 import (
   "bytes"
